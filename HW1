@@ -1,8 +1,0 @@
-Data and Code are available at https://github.com/junzhang19/CS7641.git
-
-Need to install numpy, pandas, and matplotlib packages in python3. 
-
-Need to choose which dataset (african_crises.csv or online_shoppers_intention_revised.csv) to load
-There are 2 create_features() function, please comment out another function if you load one dataset(e.g. comment out create_features() for Online Shopping Intention if you loaded African Crises dataset)
-
-My script can be ran as ./CS7641_HW1.py or python3 CS7641_HW1.py.
